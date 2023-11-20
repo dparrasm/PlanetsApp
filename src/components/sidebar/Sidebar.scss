@@ -1,0 +1,25 @@
+.sidebar-container{
+    height: 100%;
+    background-color: #154064;
+}
+.sidebar-title{
+    color: #E0E0E0;
+    font-family: Lato;
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 800;
+    padding: 10px 25px;
+}
+.sidebar-option{
+    padding: 10px 25px;
+    cursor: pointer
+}
+
+.sidebar-option:hover{
+    background: #1C5686;
+}
+
+.sidebar-menu a{
+    color: #E0E0E0;
+    text-decoration: none;
+}
